@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = "https://svitkin.github.io/"
 languageCode = 'en-us'
 title = 'Sol Vitkin'
 theme = 'hugo-scroll'
