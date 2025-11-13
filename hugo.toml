@@ -30,7 +30,7 @@ theme = 'hugo-scroll'
     title = "Sol Vitkin"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Nutrition Coach & Chef Consultant"
+    description = "Software Engineer"
 
     # Show a menu of languages available
     language_menu = false
