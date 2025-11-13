@@ -3,6 +3,10 @@ languageCode = 'en-us'
 title = 'Sol Vitkin'
 theme = 'hugo-scroll'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
