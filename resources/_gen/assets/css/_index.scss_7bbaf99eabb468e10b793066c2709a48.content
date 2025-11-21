@@ -29,7 +29,7 @@
   --single-page-text-color: var(--section-light-text-color);
   --single-page-bg-color: var(--section-light-bg-color);
   /* === Footer === */
-  --footer-color-background: #22343a;
+  --footer-color-background: #1a2332;
   --footer-color: #bbc7cc;
   /* === Lists === */
   /* define list element for unnumbered lists, leave empty for default list element */
