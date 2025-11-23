@@ -21,6 +21,45 @@
      --section-dark-bg-color: #1a2332 !important;
      --footer-color-background: #1a2332 !important;
 }
+
+/* Two-column skills layout */
+.skills-two-column {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.skills-column {
+    min-width: 0;
+}
+
+.skills-column strong {
+    display: block;
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+}
+
+.skills-column ul {
+    margin-top: 0.5rem;
+    margin-bottom: 1.5rem;
+    padding-left: 1.5rem;
+}
+
+.skills-column ul li {
+    margin-left: 1rem;
+}
+
+.skills-column ul:last-child {
+    margin-bottom: 1rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .skills-two-column {
+        grid-template-columns: 1fr;
+        gap: 1.5rem;
+    }
+}
 </style>
 
 
