@@ -31,10 +31,11 @@ I love collaborating and making the best possible tool for users, whether they'r
       <li>Terraform</li>
       <li>AWS</li>
       <li>GCP</li>
+      <li>DigitalOcean</li>
       <li>Serverless Framework</li>
     </ul>
     
-    <strong>Frontend Frameworks</strong>
+    <strong>Frontend</strong>
     <ul>
       <li>React</li>
       <li>Preact</li>
