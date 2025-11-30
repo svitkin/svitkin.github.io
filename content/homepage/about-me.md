@@ -50,8 +50,9 @@ I love collaborating and making the best possible tool for users, whether they'r
       <li>prefect</li>
       <li>PostgreSQL</li>
       <li>BigQuery</li>
+      <li>Neo4j</li>
+      <li>Dgraph</li>
     </ul>
-    <br />
     <strong>Data Science/AI</strong>
     <ul>
       <li>Data visualization</li>
